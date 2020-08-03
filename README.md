@@ -1,0 +1,2 @@
+# Skeleton
+Basic game framework.
